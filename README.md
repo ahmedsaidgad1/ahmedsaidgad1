@@ -1,9 +1,9 @@
 # Hi, I'm Ahmed 👋
 
-### CS Student @ Ain Shams University | Aspiring Full Stack Developer
+### CS Student @ Ain Shams University | Aspiring Backend.Net Developer
 
 🎓 **Computer Science student** passionate about building software — from foundational algorithms to full-scale applications.  
-🚀 Currently strengthening my **C++ & OOP** foundations while stepping into **Full Stack Development**.  
+🚀 Currently strengthening my **C++ & OOP** foundations while stepping into **Backend.Net Development**.  
 🌱 Learning, building, and sharing my journey step by step.
 
 ---
@@ -14,8 +14,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-%238CC64F.svg?style=for-the-badge&logo=sfml&logoColor=white)
-
-> 🎯 **Target Stack:** HTML5, CSS3, JavaScript, .NET
 
 ---
 
