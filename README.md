@@ -1,41 +1,87 @@
 # Hi, I'm Ahmed 👋
 
-### CS Student @ Ain Shams University | Aspiring Backend.Net Developer
+### Computer Science Student | Aspiring .NET Backend Developer
 
-🎓 **Computer Science student** passionate about building software — from foundational algorithms to full-scale applications.  
-🚀 Currently strengthening my **C++ & OOP** foundations while stepping into **Backend.Net Development**.  
-🌱 Learning, building, and sharing my journey step by step.
+I'm a Computer Science student at **Ain Shams University** interested in software development, backend engineering, and problem solving.
+
+My current focus is building a strong foundation in **C#, .NET, SQL, and backend development**, while continuously improving my **Object-Oriented Programming, Data Structures, Algorithms, and Problem Solving** skills.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 Current Focus
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-%238CC64F.svg?style=for-the-badge&logo=sfml&logoColor=white)
+- 🔹 C#
+- 🔹 .NET / ASP.NET Core
+- 🔹 Web API & REST
+- 🔹 SQL & Database Fundamentals
+- 🔹 Entity Framework Core
+- 🔹 Object-Oriented Programming
+- 🔹 Data Structures & Algorithms
+- 🔹 Clean Code & Software Design
+
+> I'm actively learning .NET Backend Development and documenting the journey through projects and practice.
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Database
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-* 🎮 **[Tricky_Forest](https://github.com/ahmedsaidgad1/Tricky_Forest)**  
-  A 2D puzzle platformer game built using C++ and SFML.
+### 🧠 [Problem-Solving-Hub](https://github.com/ahmedsaidgad1/Problem-Solving-Hub)
+My ongoing collection of programming problems and solutions, focused on algorithms, data structures, and problem-solving techniques.
 
-* 🧠 **[Problem_Solving_Level_2](https://github.com/ahmedsaidgad1/Problem_Solving_Level_2)**  
-  Solutions for intermediate-level competitive programming challenges focusing on arrays, matrices, and core algorithms.
+### 🏗️ [OOP_Projects](https://github.com/ahmedsaidgad1/OOP_Projects)
+A collection of C++ projects covering OOP concepts such as encapsulation, inheritance, composition, file I/O, validation, and class design.
 
-* 🏗️ **[Problem_Solving_Level_3](https://github.com/ahmedsaidgad1/Problem_Solving_Level_3)**  
-  Custom implementations of essential data structures from scratch in C++ (Linked List, Stack, Queue, Dynamic Array, Custom String).
+### 🌲 [Tricky_Forest](https://github.com/ahmedsaidgad1/Tricky_Forest)
+A university team project: a 2D puzzle platformer built with C++17, SFML, and CMake.
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Learning Roadmap
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsaidgad1&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaidgad1&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+### Foundation
+- [x] C++ fundamentals
+- [x] Object-Oriented Programming fundamentals
+- [x] Data Structures fundamentals
+- [x] Problem Solving practice
+- [x] Git & GitHub basics
+
+### .NET Backend
+- [ ] C# fundamentals
+- [ ] Advanced C# & LINQ
+- [ ] ASP.NET Core Web API
+- [ ] Entity Framework Core
+- [ ] SQL Server
+- [ ] REST API design
+- [ ] Authentication & Authorization
+- [ ] Testing
+- [ ] Clean Architecture & SOLID
+- [ ] Docker and deployment
+
+---
+
+## 🎯 Goal
+
+My goal is to become a strong **.NET Backend Developer** by building real-world applications, understanding backend architecture, and continuously improving my problem-solving skills.
 
 ---
 
@@ -43,3 +89,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-said-gad/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.said.gad1@gmail.com)
+
+---
+
+> **Learn. Build. Solve. Improve. 🚀**
